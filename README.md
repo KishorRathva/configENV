@@ -1,6 +1,6 @@
 # Environment Variables FTW!
 
-This is just a glimpse at how you can use environment variables and some of the fantastic tools that you can use with them. In summary, I recommend that you use environment variables and follow these steps:
+I recommend that you use environment variables and follow these steps:
 
 - create a .env file
 - ignore it in your .gitignore file
